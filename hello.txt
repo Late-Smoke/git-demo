@@ -1,7 +1,6 @@
 hello git!
 hello change 2
 hot-fix change 3
-<<<<<<< HEAD
 master test
 -
 hot-fix test
